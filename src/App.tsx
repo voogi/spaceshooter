@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import {Container, Stage, useTick} from "@pixi/react";
+import React, { useState } from 'react';
+import {Container, useTick} from "@pixi/react";
 import { StarField } from "./starfield";
 import { Enemies } from "./enemies";
 import { Spaceship } from "./starship";
